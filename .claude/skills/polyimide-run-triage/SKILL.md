@@ -1,3 +1,8 @@
+---
+name: polyimide-run-triage
+description: Use when troubleshooting a current or recent polyimide tubing dip-coating run — diagnosing defects, calculating runtime, minutes per pass, coated distance, or concentricity, deciding what can still change mid-run, or turning rough notes into a job note, defect note, operator guidance note, or test plan draft. Triggers on job numbers, pass counts, line speed, oven zone temperatures, annealer temperature, die sequence, and ID/OD/wall measurements for polyimide tubing runs.
+---
+
 # Polyimide Run Triage and Documentation
 
 ## Purpose
